@@ -1,6 +1,6 @@
 #         x1
 
-# for i in range(1):
+# for i in range(10):
 #     print(1*1)
 #     print(1*2)
 #     print(1*3)
@@ -13,7 +13,7 @@
 
 #        x2
 
-# for i in range(1):
+# for i in range(10):
 #     print(2*1)
 #     print(2*2)
 #     print(2*3)
@@ -26,7 +26,7 @@
 
 #       x3
 
-# for i in range(1):
+# for i in range(10):
 #     print(3*1)
 #     print(3*2)
 #     print(3*3)
@@ -39,7 +39,7 @@
 
 #       x4
 
-# for i in range(1):
+# for i in range(10):
 #     print(4*1)
 #     print(4*2)
 #     print(4*3)
@@ -51,7 +51,7 @@
 #     print(4*9)
 
  #      x5
-#    or i in rangfe(1)
+#    or i in rangfe(10)
 #     print(5*1)
 #     print(5*2)
 #     print(5*3)
@@ -64,7 +64,7 @@
 
 #       x6
 
-# for i in range(1):
+# for i in range(10):
 #     print(6*1)
 #     print(6*2)
 #     print(6*3)
@@ -77,6 +77,7 @@
 
 #       x7
 
+# for i in range(10):
 #     print(7*1)
 #     print(7*2)
 #     print(7*3)
@@ -89,7 +90,7 @@
 
 #       x8
 
-# for i in range(1):
+# for i in range(10):
 #     print(8*1)
 #     print(8*2)
 #     print(8*3)
@@ -102,7 +103,7 @@
 
 #        x9
 
-# for i in range(1):
+# for i in range(10):
 #     print(9*1)
 #     print(9*2)
 #     print(9*3)
@@ -115,7 +116,7 @@
 
 #        x10
 
-for i in range(1):
+for i in range(10):
     print(10*1)
     print(10*2)
     print(10*3)
